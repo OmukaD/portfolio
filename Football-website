@@ -1,1 +1,536 @@
+<!DOCTYPE HTML>
+<html>
+	<head>
+		<title>BACKBENCHERS OFFICIAL WEBSITE</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.2/css/all.min.css" integrity="sha512-1sCRPdkRXhBV2PBLUdRb4tMg1w2YPf37qatUFeS7zlBy7jJI8Lf4VHwWfZZfpXtYSLy85pkm9GaYVYMfw5BC1A==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+	</head>
+	<body class="is-preload">
+
+		<!-- Wrapper -->
+			<div id="wrapper">
+
+				<!-- Header -->
+					<header id="header">
+						<div class="logo">
+							<span class="icon fa-futbol"></span>
+						</div>
+						<div class="content">
+							<div class="inner">
+								<h1>BACKBENCHERS</h1>
+								<p>Your number one football morios.</p>
+							</div>
+						</div>
+						<nav>
+							<ul>
+								<li><a href="#intro">NEWS</a></li>
+								<li><a href="#tables">TABLES</a></li>
+								<li><a href="#teams">TEAM STATS</a></li>
+								<li><a href="#players">PLAYER STATS</a></li>
+								<li><a href="#contact">CONTACT</a></li>
+								<!--<li><a href="#elements">Elements</a></li>-->
+							</ul>
+						</nav>
+					</header>
+
+				<!-- Main -->
+					<div id="main">
+
+						<!-- Intro -->
+							<article id="intro">
+								<h2 class="major">TRENDING</h2>
+								<span class="image main"><img src="https://resources.premierleague.com/photos/premierleague/photo/2022/05/22/d3ef27a6-315e-4338-92f8-e86a508854c6/1398670923.jpg?width=1350&height=759" alt="" /></span>
+								<p><a href="#work">LOREM</a>.</p>
+								<p>Lorem ipsum dolor sit amet.</p>
+								<hr>
+
+
+								<span class="image main"><img src="https://resources.premierleague.com/photos/2022/05/02/f01de2cb-34d0-4346-bae5-eeba82995c74/Manchester-United-3-0-Brentford.jpg?width=1350&height=759" alt="" /></span>
+								<p><a href="#work">LOREM</a>.</p>
+								<p>Lorem ipsum dolor sit amet.</p>
+								<hr>
+
+								<span class="image main"><img src="https://resources.premierleague.com/photos/premierleague/photo/2022/02/15/1b5f1161-9a04-4cac-b8cb-2e99c11d2349/1238508406.jpg?width=1350&height=759" alt="" /></span>
+								<p><a href="#work">LOREM</a>.</p>
+								<p>Lorem ipsum dolor sit amet.</p>
+								<hr>
+
+							</article>
+
+						<!-- FIXTURES -->
+							<article id="teams">
+								<h1>TEAM STATS</h1>
+								<hr>
+								
+								<h2><a href="#prem-fix">PREMIER LEAGUE</a></h2>
+								<h2><a href="#laliga-fix">LA LIGA</a></h2>
+								<h2><a href="#prem-fix">SERIE A</a></h2>
+								<h2><a href="#prem-fix">BUNDESLIGA</a></h2>
+								<h2><a href="#prem-fix">EREDEVISIE</a></h2>
+								<h2><a href="#prem-fix">LEAGUE 1</a></h2>
+								<h2><a href="#prem-fix">INTERNATIONAL</a></h2>
+
+								<hr>
+
+							</article>
+							<article id="prem-fix">
+								<!-- united -->
+								<div id="scoreaxis-widget-162b0" style="border-width:1px;border-color:rgba(0, 0, 0, 0.15);border-style:solid;border-radius:8px;padding:10px;background:rgb(255, 255, 255);width:100%;background-color:#666666"><iframe id="Iframe" src="https://www.scoreaxis.com/widget/team-info/14?autoHeight=1&amp;bodyBackground=%23666666&amp;textColor=%23ffffff&amp;inst=162b0" style="width:100%;border:none;transition:all 300ms ease"></iframe><script>window.addEventListener("DOMContentLoaded",event=>{window.addEventListener("message",event=>{if(event.data.appHeight&&"162b0"==event.data.inst){let container=document.querySelector("#scoreaxis-widget-162b0 iframe");container&&(container.style.height=parseInt(event.data.appHeight)+"px")}},!1)});</script></div>
+								<hr>
+								<!-- city -->
+								<div id="scoreaxis-widget-c0c62" style="border-width:1px;border-color:rgba(0, 0, 0, 0.15);border-style:solid;border-radius:8px;padding:10px;background:rgb(255, 255, 255);width:100%;background-color:#666666"><iframe id="Iframe" src="https://www.scoreaxis.com/widget/team-info/9?autoHeight=1&amp;bodyBackground=%23666666&amp;textColor=%23ffffff&amp;inst=c0c62" style="width:100%;border:none;transition:all 300ms ease"></iframe><script>window.addEventListener("DOMContentLoaded",event=>{window.addEventListener("message",event=>{if(event.data.appHeight&&"c0c62"==event.data.inst){let container=document.querySelector("#scoreaxis-widget-c0c62 iframe");container&&(container.style.height=parseInt(event.data.appHeight)+"px")}},!1)});</script></div>
+								<hr>
+								<!-- arsenal -->
+								<div id="scoreaxis-widget-fb7b1" style="border-width:1px;border-color:rgba(0, 0, 0, 0.15);border-style:solid;border-radius:8px;padding:10px;background:rgb(255, 255, 255);width:100%;background-color:#666666"><iframe id="Iframe" src="https://www.scoreaxis.com/widget/team-info/19?autoHeight=1&amp;bodyBackground=%23666666&amp;textColor=%23ffffff&amp;inst=fb7b1" style="width:100%;border:none;transition:all 300ms ease"></iframe><script>window.addEventListener("DOMContentLoaded",event=>{window.addEventListener("message",event=>{if(event.data.appHeight&&"fb7b1"==event.data.inst){let container=document.querySelector("#scoreaxis-widget-fb7b1 iframe");container&&(container.style.height=parseInt(event.data.appHeight)+"px")}},!1)});</script></div>
+								<hr>
+								<!-- totte -->
+								<div id="scoreaxis-widget-6e983" style="border-width:1px;border-color:rgba(0, 0, 0, 0.15);border-style:solid;border-radius:8px;padding:10px;background:rgb(255, 255, 255);width:100%;background-color:#666666"><iframe id="Iframe" src="https://www.scoreaxis.com/widget/team-info/6?autoHeight=1&amp;bodyBackground=%23666666&amp;textColor=%23ffffff&amp;inst=6e983" style="width:100%;border:none;transition:all 300ms ease"></iframe><script>window.addEventListener("DOMContentLoaded",event=>{window.addEventListener("message",event=>{if(event.data.appHeight&&"6e983"==event.data.inst){let container=document.querySelector("#scoreaxis-widget-6e983 iframe");container&&(container.style.height=parseInt(event.data.appHeight)+"px")}},!1)});</script></div>
+								<hr>
+								<!-- liverpool -->
+								<div id="scoreaxis-widget-65138" style="border-width:1px;border-color:rgba(0, 0, 0, 0.15);border-style:solid;border-radius:8px;padding:10px;background:rgb(255, 255, 255);width:100%;background-color:#666666"><iframe id="Iframe" src="https://www.scoreaxis.com/widget/team-info/8?autoHeight=1&amp;bodyBackground=%23666666&amp;textColor=%23ffffff&amp;inst=65138" style="width:100%;border:none;transition:all 300ms ease"></iframe><script>window.addEventListener("DOMContentLoaded",event=>{window.addEventListener("message",event=>{if(event.data.appHeight&&"65138"==event.data.inst){let container=document.querySelector("#scoreaxis-widget-65138 iframe");container&&(container.style.height=parseInt(event.data.appHeight)+"px")}},!1)});</script></div>
+								<hr>
+								<!-- brighton -->
+								<div id="scoreaxis-widget-957b6" style="border-width:1px;border-color:rgba(0, 0, 0, 0.15);border-style:solid;border-radius:8px;padding:10px;background:rgb(255, 255, 255);width:100%;background-color:#666666"><iframe id="Iframe" src="https://www.scoreaxis.com/widget/team-info/78?autoHeight=1&amp;bodyBackground=%23666666&amp;textColor=%23ffffff&amp;inst=957b6" style="width:100%;border:none;transition:all 300ms ease"></iframe><script>window.addEventListener("DOMContentLoaded",event=>{window.addEventListener("message",event=>{if(event.data.appHeight&&"957b6"==event.data.inst){let container=document.querySelector("#scoreaxis-widget-957b6 iframe");container&&(container.style.height=parseInt(event.data.appHeight)+"px")}},!1)});</script></div>
+								<hr>
+								<!-- brentford -->
+								<div id="scoreaxis-widget-ad534" style="border-width:1px;border-color:rgba(0, 0, 0, 0.15);border-style:solid;border-radius:8px;padding:10px;background:rgb(255, 255, 255);width:100%;background-color:#666666"><iframe id="Iframe" src="https://www.scoreaxis.com/widget/team-info/236?autoHeight=1&amp;bodyBackground=%23666666&amp;textColor=%23ffffff&amp;inst=ad534" style="width:100%;border:none;transition:all 300ms ease"></iframe><script>window.addEventListener("DOMContentLoaded",event=>{window.addEventListener("message",event=>{if(event.data.appHeight&&"ad534"==event.data.inst){let container=document.querySelector("#scoreaxis-widget-ad534 iframe");container&&(container.style.height=parseInt(event.data.appHeight)+"px")}},!1)});</script></div>
+								<hr>
+								<!-- villa -->
+								<div id="scoreaxis-widget-8bc90" style="border-width:1px;border-color:rgba(0, 0, 0, 0.15);border-style:solid;border-radius:8px;padding:10px;background:rgb(255, 255, 255);width:100%;background-color:#666666"><iframe id="Iframe" src="https://www.scoreaxis.com/widget/team-info/15?autoHeight=1&amp;bodyBackground=%23666666&amp;textColor=%23ffffff&amp;inst=8bc90" style="width:100%;border:none;transition:all 300ms ease"></iframe><script>window.addEventListener("DOMContentLoaded",event=>{window.addEventListener("message",event=>{if(event.data.appHeight&&"8bc90"==event.data.inst){let container=document.querySelector("#scoreaxis-widget-8bc90 iframe");container&&(container.style.height=parseInt(event.data.appHeight)+"px")}},!1)});</script></div>
+								<hr>
+								<!-- west ham -->
+								<div id="scoreaxis-widget-fd822" style="border-width:1px;border-color:rgba(0, 0, 0, 0.15);border-style:solid;border-radius:8px;padding:10px;background:rgb(255, 255, 255);width:100%;background-color:#666666"><iframe id="Iframe" src="https://www.scoreaxis.com/widget/team-info/1?autoHeight=1&amp;bodyBackground=%23666666&amp;textColor=%23ffffff&amp;inst=fd822" style="width:100%;border:none;transition:all 300ms ease"></iframe><script>window.addEventListener("DOMContentLoaded",event=>{window.addEventListener("message",event=>{if(event.data.appHeight&&"fd822"==event.data.inst){let container=document.querySelector("#scoreaxis-widget-fd822 iframe");container&&(container.style.height=parseInt(event.data.appHeight)+"px")}},!1)});</script></div>
+								<hr>
+								<!-- fulham -->
+								<div id="scoreaxis-widget-4000b" style="border-width:1px;border-color:rgba(0, 0, 0, 0.15);border-style:solid;border-radius:8px;padding:10px;background:rgb(255, 255, 255);width:100%;background-color:#666666"><iframe id="Iframe" src="https://www.scoreaxis.com/widget/team-info/11?autoHeight=1&amp;bodyBackground=%23666666&amp;textColor=%23ffffff&amp;inst=4000b" style="width:100%;border:none;transition:all 300ms ease"></iframe><script>window.addEventListener("DOMContentLoaded",event=>{window.addEventListener("message",event=>{if(event.data.appHeight&&"4000b"==event.data.inst){let container=document.querySelector("#scoreaxis-widget-4000b iframe");container&&(container.style.height=parseInt(event.data.appHeight)+"px")}},!1)});</script></div>
+								<hr>
+								<!-- leeds -->
+								<div id="scoreaxis-widget-2b12c" style="border-width:1px;border-color:rgba(0, 0, 0, 0.15);border-style:solid;border-radius:8px;padding:10px;background:rgb(255, 255, 255);width:100%;background-color:#666666"><iframe id="Iframe" src="https://www.scoreaxis.com/widget/team-info/71?autoHeight=1&amp;bodyBackground=%23666666&amp;textColor=%23ffffff&amp;inst=2b12c" style="width:100%;border:none;transition:all 300ms ease"></iframe><script>window.addEventListener("DOMContentLoaded",event=>{window.addEventListener("message",event=>{if(event.data.appHeight&&"2b12c"==event.data.inst){let container=document.querySelector("#scoreaxis-widget-2b12c iframe");container&&(container.style.height=parseInt(event.data.appHeight)+"px")}},!1)});</script></div>
+								<hr>
+								<!-- palace -->
+								<div id="scoreaxis-widget-c40af" style="border-width:1px;border-color:rgba(0, 0, 0, 0.15);border-style:solid;border-radius:8px;padding:10px;background:rgb(255, 255, 255);width:100%;background-color:#666666"><iframe id="Iframe" src="https://www.scoreaxis.com/widget/team-info/51?autoHeight=1&amp;bodyBackground=%23666666&amp;textColor=%23ffffff&amp;inst=c40af" style="width:100%;border:none;transition:all 300ms ease"></iframe><script>window.addEventListener("DOMContentLoaded",event=>{window.addEventListener("message",event=>{if(event.data.appHeight&&"c40af"==event.data.inst){let container=document.querySelector("#scoreaxis-widget-c40af iframe");container&&(container.style.height=parseInt(event.data.appHeight)+"px")}},!1)});</script></div>
+								<hr>
+								<!-- notts -->
+								<div id="scoreaxis-widget-ae761" style="border-width:1px;border-color:rgba(0, 0, 0, 0.15);border-style:solid;border-radius:8px;padding:10px;background:rgb(255, 255, 255);width:100%;background-color:#666666"><iframe id="Iframe" src="https://www.scoreaxis.com/widget/team-info/63?autoHeight=1&amp;bodyBackground=%23666666&amp;textColor=%23ffffff&amp;inst=ae761" style="width:100%;border:none;transition:all 300ms ease"></iframe><script>window.addEventListener("DOMContentLoaded",event=>{window.addEventListener("message",event=>{if(event.data.appHeight&&"ae761"==event.data.inst){let container=document.querySelector("#scoreaxis-widget-ae761 iframe");container&&(container.style.height=parseInt(event.data.appHeight)+"px")}},!1)});</script></div>
+								<hr>
+								<!-- everton -->
+								<div id="scoreaxis-widget-07531" style="border-width:1px;border-color:rgba(0, 0, 0, 0.15);border-style:solid;border-radius:8px;padding:10px;background:rgb(255, 255, 255);width:100%;background-color:#666666"><iframe id="Iframe" src="https://www.scoreaxis.com/widget/team-info/13?autoHeight=1&amp;bodyBackground=%23666666&amp;textColor=%23ffffff&amp;inst=07531" style="width:100%;border:none;transition:all 300ms ease"></iframe><script>window.addEventListener("DOMContentLoaded",event=>{window.addEventListener("message",event=>{if(event.data.appHeight&&"07531"==event.data.inst){let container=document.querySelector("#scoreaxis-widget-07531 iframe");container&&(container.style.height=parseInt(event.data.appHeight)+"px")}},!1)});</script></div>
+								<hr>
+								<!-- leicester -->
+								<div id="scoreaxis-widget-08d36" style="border-width:1px;border-color:rgba(0, 0, 0, 0.15);border-style:solid;border-radius:8px;padding:10px;background:rgb(255, 255, 255);width:100%;background-color:#666666"><iframe id="Iframe" src="https://www.scoreaxis.com/widget/team-info/42?autoHeight=1&amp;bodyBackground=%23666666&amp;textColor=%23ffffff&amp;inst=08d36" style="width:100%;border:none;transition:all 300ms ease"></iframe><script>window.addEventListener("DOMContentLoaded",event=>{window.addEventListener("message",event=>{if(event.data.appHeight&&"08d36"==event.data.inst){let container=document.querySelector("#scoreaxis-widget-08d36 iframe");container&&(container.style.height=parseInt(event.data.appHeight)+"px")}},!1)});</script></div>
+								<hr>
+								<!-- wolves -->
+								<div id="scoreaxis-widget-858e3" style="border-width:1px;border-color:rgba(0, 0, 0, 0.15);border-style:solid;border-radius:8px;padding:10px;background:rgb(255, 255, 255);width:100%;background-color:#666666"><iframe id="Iframe" src="https://www.scoreaxis.com/widget/team-info/29?autoHeight=1&amp;bodyBackground=%23666666&amp;textColor=%23ffffff&amp;inst=858e3" style="width:100%;border:none;transition:all 300ms ease"></iframe><script>window.addEventListener("DOMContentLoaded",event=>{window.addEventListener("message",event=>{if(event.data.appHeight&&"858e3"==event.data.inst){let container=document.querySelector("#scoreaxis-widget-858e3 iframe");container&&(container.style.height=parseInt(event.data.appHeight)+"px")}},!1)});</script></div>
+								<hr>
+								<!-- SOUTHAMPTON -->
+								<div id="scoreaxis-widget-51843" style="border-width:1px;border-color:rgba(0, 0, 0, 0.15);border-style:solid;border-radius:8px;padding:10px;background:rgb(255, 255, 255);width:100%;background-color:#666666"><iframe id="Iframe" src="https://www.scoreaxis.com/widget/team-info/65?autoHeight=1&amp;bodyBackground=%23666666&amp;textColor=%23ffffff&amp;inst=51843" style="width:100%;border:none;transition:all 300ms ease"></iframe><script>window.addEventListener("DOMContentLoaded",event=>{window.addEventListener("message",event=>{if(event.data.appHeight&&"51843"==event.data.inst){let container=document.querySelector("#scoreaxis-widget-51843 iframe");container&&(container.style.height=parseInt(event.data.appHeight)+"px")}},!1)});</script></div>
+								<hr>
+								<!-- chel -->
+								<div id="scoreaxis-widget-4a374" style="border-width:1px;border-color:rgba(0, 0, 0, 0.15);border-style:solid;border-radius:8px;padding:10px;background:rgb(255, 255, 255);width:100%;background-color:#666666"><iframe id="Iframe" src="https://www.scoreaxis.com/widget/team-info/18?autoHeight=1&amp;bodyBackground=%23666666&amp;textColor=%23ffffff&amp;inst=4a374" style="width:100%;border:none;transition:all 300ms ease"></iframe><script>window.addEventListener("DOMContentLoaded",event=>{window.addEventListener("message",event=>{if(event.data.appHeight&&"4a374"==event.data.inst){let container=document.querySelector("#scoreaxis-widget-4a374 iframe");container&&(container.style.height=parseInt(event.data.appHeight)+"px")}},!1)});</script></div>
+								<hr>
+								<!-- castle -->
+								<div id="scoreaxis-widget-258c7" style="border-width:1px;border-color:rgba(0, 0, 0, 0.15);border-style:solid;border-radius:8px;padding:10px;background:rgb(255, 255, 255);width:100%;background-color:#666666"><iframe id="Iframe" src="https://www.scoreaxis.com/widget/team-info/20?autoHeight=1&amp;bodyBackground=%23666666&amp;textColor=%23ffffff&amp;inst=258c7" style="width:100%;border:none;transition:all 300ms ease"></iframe><script>window.addEventListener("DOMContentLoaded",event=>{window.addEventListener("message",event=>{if(event.data.appHeight&&"258c7"==event.data.inst){let container=document.querySelector("#scoreaxis-widget-258c7 iframe");container&&(container.style.height=parseInt(event.data.appHeight)+"px")}},!1)});</script></div>
+								<hr>
+								<!-- bou -->
+								<div id="scoreaxis-widget-eb616" style="border-width:1px;border-color:rgba(0, 0, 0, 0.15);border-style:solid;border-radius:8px;padding:10px;background:rgb(255, 255, 255);width:100%;background-color:#666666"><iframe id="Iframe" src="https://www.scoreaxis.com/widget/team-info/52?autoHeight=1&amp;bodyBackground=%23666666&amp;textColor=%23ffffff&amp;inst=eb616" style="width:100%;border:none;transition:all 300ms ease"></iframe><script>window.addEventListener("DOMContentLoaded",event=>{window.addEventListener("message",event=>{if(event.data.appHeight&&"eb616"==event.data.inst){let container=document.querySelector("#scoreaxis-widget-eb616 iframe");container&&(container.style.height=parseInt(event.data.appHeight)+"px")}},!1)});</script></div>
+								<hr>
+
+							</article>
+
+							<article id="laliga-fix">
+								<!-- barca -->
+								<div id="scoreaxis-widget-d07b2" style="border-width:1px;border-color:rgba(0, 0, 0, 0.15);border-style:solid;border-radius:8px;padding:10px;background:rgb(255, 255, 255);width:100%;background-color:#666666"><iframe id="Iframe" src="https://www.scoreaxis.com/widget/team-info/83?autoHeight=1&amp;bodyBackground=%23666666&amp;textColor=%23ffffff&amp;inst=d07b2" style="width:100%;border:none;transition:all 300ms ease"></iframe><script>window.addEventListener("DOMContentLoaded",event=>{window.addEventListener("message",event=>{if(event.data.appHeight&&"d07b2"==event.data.inst){let container=document.querySelector("#scoreaxis-widget-d07b2 iframe");container&&(container.style.height=parseInt(event.data.appHeight)+"px")}},!1)});</script></div>
+								<hr>
+								<!-- real madrid -->
+								<div id="scoreaxis-widget-93cde" style="border-width:1px;border-color:rgba(0, 0, 0, 0.15);border-style:solid;border-radius:8px;padding:10px;background:rgb(255, 255, 255);width:100%;background-color:#666666"><iframe id="Iframe" src="https://www.scoreaxis.com/widget/team-info/3468?autoHeight=1&amp;bodyBackground=%23666666&amp;textColor=%23ffffff&amp;inst=93cde" style="width:100%;border:none;transition:all 300ms ease"></iframe><script>window.addEventListener("DOMContentLoaded",event=>{window.addEventListener("message",event=>{if(event.data.appHeight&&"93cde"==event.data.inst){let container=document.querySelector("#scoreaxis-widget-93cde iframe");container&&(container.style.height=parseInt(event.data.appHeight)+"px")}},!1)});</script></div>
+								<hr>
+								<!-- villareal -->
+								<div id="scoreaxis-widget-abbbb" style="border-width:1px;border-color:rgba(0, 0, 0, 0.15);border-style:solid;border-radius:8px;padding:10px;background:rgb(255, 255, 255);width:100%;background-color:#666666"><iframe id="Iframe" src="https://www.scoreaxis.com/widget/team-info/3477?autoHeight=1&amp;bodyBackground=%23666666&amp;textColor=%23ffffff&amp;inst=abbbb" style="width:100%;border:none;transition:all 300ms ease"></iframe><script>window.addEventListener("DOMContentLoaded",event=>{window.addEventListener("message",event=>{if(event.data.appHeight&&"abbbb"==event.data.inst){let container=document.querySelector("#scoreaxis-widget-abbbb iframe");container&&(container.style.height=parseInt(event.data.appHeight)+"px")}},!1)});</script></div>
+								<hr>
+								<!-- betis -->
+								<div id="scoreaxis-widget-51a30" style="border-width:1px;border-color:rgba(0, 0, 0, 0.15);border-style:solid;border-radius:8px;padding:10px;background:rgb(255, 255, 255);width:100%;background-color:#666666"><iframe id="Iframe" src="https://www.scoreaxis.com/widget/team-info/485?autoHeight=1&amp;bodyBackground=%23666666&amp;textColor=%23ffffff&amp;inst=51a30" style="width:100%;border:none;transition:all 300ms ease"></iframe><script>window.addEventListener("DOMContentLoaded",event=>{window.addEventListener("message",event=>{if(event.data.appHeight&&"51a30"==event.data.inst){let container=document.querySelector("#scoreaxis-widget-51a30 iframe");container&&(container.style.height=parseInt(event.data.appHeight)+"px")}},!1)});</script></div>
+								<hr>
+								<!-- athletic club -->
+								<div id="scoreaxis-widget-3c1e1" style="border-width:1px;border-color:rgba(0, 0, 0, 0.15);border-style:solid;border-radius:8px;padding:10px;background:rgb(255, 255, 255);width:100%;background-color:#666666"><iframe id="Iframe" src="https://www.scoreaxis.com/widget/team-info/13258?autoHeight=1&amp;bodyBackground=%23666666&amp;textColor=%23ffffff&amp;inst=3c1e1" style="width:100%;border:none;transition:all 300ms ease"></iframe><script>window.addEventListener("DOMContentLoaded",event=>{window.addEventListener("message",event=>{if(event.data.appHeight&&"3c1e1"==event.data.inst){let container=document.querySelector("#scoreaxis-widget-3c1e1 iframe");container&&(container.style.height=parseInt(event.data.appHeight)+"px")}},!1)});</script></div>
+								<hr>
+								<!-- atleti -->
+								<div id="scoreaxis-widget-af11f" style="border-width:1px;border-color:rgba(0, 0, 0, 0.15);border-style:solid;border-radius:8px;padding:10px;background:rgb(255, 255, 255);width:100%;background-color:#666666"><iframe id="Iframe" src="https://www.scoreaxis.com/widget/team-info/7980?autoHeight=1&amp;bodyBackground=%23666666&amp;textColor=%23ffffff&amp;inst=af11f" style="width:100%;border:none;transition:all 300ms ease"></iframe><script>window.addEventListener("DOMContentLoaded",event=>{window.addEventListener("message",event=>{if(event.data.appHeight&&"af11f"==event.data.inst){let container=document.querySelector("#scoreaxis-widget-af11f iframe");container&&(container.style.height=parseInt(event.data.appHeight)+"px")}},!1)});</script></div>
+								<hr>
+								<!-- osasuna -->
+								<div id="scoreaxis-widget-dea9b" style="border-width:1px;border-color:rgba(0, 0, 0, 0.15);border-style:solid;border-radius:8px;padding:10px;background:rgb(255, 255, 255);width:100%;background-color:#666666"><iframe id="Iframe" src="https://www.scoreaxis.com/widget/team-info/459?autoHeight=1&amp;bodyBackground=%23666666&amp;textColor=%23ffffff&amp;inst=dea9b" style="width:100%;border:none;transition:all 300ms ease"></iframe><script>window.addEventListener("DOMContentLoaded",event=>{window.addEventListener("message",event=>{if(event.data.appHeight&&"dea9b"==event.data.inst){let container=document.querySelector("#scoreaxis-widget-dea9b iframe");container&&(container.style.height=parseInt(event.data.appHeight)+"px")}},!1)});</script></div>
+								<hr>
+								<!-- Real Sociedad -->
+								<div id="scoreaxis-widget-92457" style="border-width:1px;border-color:rgba(0, 0, 0, 0.15);border-style:solid;border-radius:8px;padding:10px;background:rgb(255, 255, 255);width:100%;background-color:#666666"><iframe id="Iframe" src="https://www.scoreaxis.com/widget/team-info/594?autoHeight=1&amp;bodyBackground=%23666666&amp;textColor=%23ffffff&amp;inst=92457" style="width:100%;border:none;transition:all 300ms ease"></iframe><script>window.addEventListener("DOMContentLoaded",event=>{window.addEventListener("message",event=>{if(event.data.appHeight&&"92457"==event.data.inst){let container=document.querySelector("#scoreaxis-widget-92457 iframe");container&&(container.style.height=parseInt(event.data.appHeight)+"px")}},!1)});</script></div>
+								<hr>
+								<!-- Mallorca -->
+								<div id="scoreaxis-widget-03003" style="border-width:1px;border-color:rgba(0, 0, 0, 0.15);border-style:solid;border-radius:8px;padding:10px;background:rgb(255, 255, 255);width:100%;background-color:#666666"><iframe id="Iframe" src="https://www.scoreaxis.com/widget/team-info/645?autoHeight=1&amp;bodyBackground=%23666666&amp;textColor=%23ffffff&amp;inst=03003" style="width:100%;border:none;transition:all 300ms ease"></iframe><script>window.addEventListener("DOMContentLoaded",event=>{window.addEventListener("message",event=>{if(event.data.appHeight&&"03003"==event.data.inst){let container=document.querySelector("#scoreaxis-widget-03003 iframe");container&&(container.style.height=parseInt(event.data.appHeight)+"px")}},!1)});</script></div>
+								<hr>
+								<!-- Almería -->
+								<div id="scoreaxis-widget-c2b57" style="border-width:1px;border-color:rgba(0, 0, 0, 0.15);border-style:solid;border-radius:8px;padding:10px;background:rgb(255, 255, 255);width:100%;background-color:#666666"><iframe id="Iframe" src="https://www.scoreaxis.com/widget/team-info/618?autoHeight=1&amp;bodyBackground=%23666666&amp;textColor=%23ffffff&amp;inst=c2b57" style="width:100%;border:none;transition:all 300ms ease"></iframe><script>window.addEventListener("DOMContentLoaded",event=>{window.addEventListener("message",event=>{if(event.data.appHeight&&"c2b57"==event.data.inst){let container=document.querySelector("#scoreaxis-widget-c2b57 iframe");container&&(container.style.height=parseInt(event.data.appHeight)+"px")}},!1)});</script></div>
+								<hr>
+								<!-- Rayo Vallecano -->
+								<div id="scoreaxis-widget-1b2dc" style="border-width:1px;border-color:rgba(0, 0, 0, 0.15);border-style:solid;border-radius:8px;padding:10px;background:rgb(255, 255, 255);width:100%;background-color:#666666"><iframe id="Iframe" src="https://www.scoreaxis.com/widget/team-info/377?autoHeight=1&amp;bodyBackground=%23666666&amp;textColor=%23ffffff&amp;inst=1b2dc" style="width:100%;border:none;transition:all 300ms ease"></iframe><script>window.addEventListener("DOMContentLoaded",event=>{window.addEventListener("message",event=>{if(event.data.appHeight&&"1b2dc"==event.data.inst){let container=document.querySelector("#scoreaxis-widget-1b2dc iframe");container&&(container.style.height=parseInt(event.data.appHeight)+"px")}},!1)});</script></div>
+								<hr>
+								<!-- Celta de Vigo -->
+								<div id="scoreaxis-widget-a5340" style="border-width:1px;border-color:rgba(0, 0, 0, 0.15);border-style:solid;border-radius:8px;padding:10px;background:rgb(255, 255, 255);width:100%;background-color:#666666"><iframe id="Iframe" src="https://www.scoreaxis.com/widget/team-info/36?autoHeight=1&amp;bodyBackground=%23666666&amp;textColor=%23ffffff&amp;inst=a5340" style="width:100%;border:none;transition:all 300ms ease"></iframe><script>window.addEventListener("DOMContentLoaded",event=>{window.addEventListener("message",event=>{if(event.data.appHeight&&"a5340"==event.data.inst){let container=document.querySelector("#scoreaxis-widget-a5340 iframe");container&&(container.style.height=parseInt(event.data.appHeight)+"px")}},!1)});</script></div>
+								<hr>
+								<!-- Cádiz -->
+								<div id="scoreaxis-widget-7389a" style="border-width:1px;border-color:rgba(0, 0, 0, 0.15);border-style:solid;border-radius:8px;padding:10px;background:rgb(255, 255, 255);width:100%;background-color:#666666"><iframe id="Iframe" src="https://www.scoreaxis.com/widget/team-info/6827?autoHeight=1&amp;bodyBackground=%23666666&amp;textColor=%23ffffff&amp;inst=7389a" style="width:100%;border:none;transition:all 300ms ease"></iframe><script>window.addEventListener("DOMContentLoaded",event=>{window.addEventListener("message",event=>{if(event.data.appHeight&&"7389a"==event.data.inst){let container=document.querySelector("#scoreaxis-widget-7389a iframe");container&&(container.style.height=parseInt(event.data.appHeight)+"px")}},!1)});</script></div>
+								<hr>
+								<!-- girona -->
+								<div id="scoreaxis-widget-98eab" style="border-width:1px;border-color:rgba(0, 0, 0, 0.15);border-style:solid;border-radius:8px;padding:10px;background:rgb(255, 255, 255);width:100%;background-color:#666666"><iframe id="Iframe" src="https://www.scoreaxis.com/widget/team-info/231?autoHeight=1&amp;bodyBackground=%23666666&amp;textColor=%23ffffff&amp;inst=98eab" style="width:100%;border:none;transition:all 300ms ease"></iframe><script>window.addEventListener("DOMContentLoaded",event=>{window.addEventListener("message",event=>{if(event.data.appHeight&&"98eab"==event.data.inst){let container=document.querySelector("#scoreaxis-widget-98eab iframe");container&&(container.style.height=parseInt(event.data.appHeight)+"px")}},!1)});</script></div>
+								<hr>
+								<!-- Valencia -->
+								<div id="scoreaxis-widget-afd8b" style="border-width:1px;border-color:rgba(0, 0, 0, 0.15);border-style:solid;border-radius:8px;padding:10px;background:rgb(255, 255, 255);width:100%;background-color:#666666"><iframe id="Iframe" src="https://www.scoreaxis.com/widget/team-info/214?autoHeight=1&amp;bodyBackground=%23666666&amp;textColor=%23ffffff&amp;inst=afd8b" style="width:100%;border:none;transition:all 300ms ease"></iframe><script>window.addEventListener("DOMContentLoaded",event=>{window.addEventListener("message",event=>{if(event.data.appHeight&&"afd8b"==event.data.inst){let container=document.querySelector("#scoreaxis-widget-afd8b iframe");container&&(container.style.height=parseInt(event.data.appHeight)+"px")}},!1)});</script></div>
+								<hr>
+								<!-- sevilla -->
+								<div id="scoreaxis-widget-0b972" style="border-width:1px;border-color:rgba(0, 0, 0, 0.15);border-style:solid;border-radius:8px;padding:10px;background:rgb(255, 255, 255);width:100%;background-color:#666666"><iframe id="Iframe" src="https://www.scoreaxis.com/widget/team-info/676?autoHeight=1&amp;bodyBackground=%23666666&amp;textColor=%23ffffff&amp;inst=0b972" style="width:100%;border:none;transition:all 300ms ease"></iframe><script>window.addEventListener("DOMContentLoaded",event=>{window.addEventListener("message",event=>{if(event.data.appHeight&&"0b972"==event.data.inst){let container=document.querySelector("#scoreaxis-widget-0b972 iframe");container&&(container.style.height=parseInt(event.data.appHeight)+"px")}},!1)});</script></div>
+								<hr>
+								<!-- Espanyol -->
+								<div id="scoreaxis-widget-34127" style="border-width:1px;border-color:rgba(0, 0, 0, 0.15);border-style:solid;border-radius:8px;padding:10px;background:rgb(255, 255, 255);width:100%;background-color:#666666"><iframe id="Iframe" src="https://www.scoreaxis.com/widget/team-info/528?autoHeight=1&amp;bodyBackground=%23666666&amp;textColor=%23ffffff&amp;inst=34127" style="width:100%;border:none;transition:all 300ms ease"></iframe><script>window.addEventListener("DOMContentLoaded",event=>{window.addEventListener("message",event=>{if(event.data.appHeight&&"34127"==event.data.inst){let container=document.querySelector("#scoreaxis-widget-34127 iframe");container&&(container.style.height=parseInt(event.data.appHeight)+"px")}},!1)});</script></div>
+								<hr>
+								<!-- Elche -->
+								<div id="scoreaxis-widget-25a16" style="border-width:1px;border-color:rgba(0, 0, 0, 0.15);border-style:solid;border-radius:8px;padding:10px;background:rgb(255, 255, 255);width:100%;background-color:#666666"><iframe id="Iframe" src="https://www.scoreaxis.com/widget/team-info/1099?autoHeight=1&amp;bodyBackground=%23666666&amp;textColor=%23ffffff&amp;inst=25a16" style="width:100%;border:none;transition:all 300ms ease"></iframe><script>window.addEventListener("DOMContentLoaded",event=>{window.addEventListener("message",event=>{if(event.data.appHeight&&"25a16"==event.data.inst){let container=document.querySelector("#scoreaxis-widget-25a16 iframe");container&&(container.style.height=parseInt(event.data.appHeight)+"px")}},!1)});</script></div>
+								<hr>
+								<!-- Getafe -->
+								<div id="scoreaxis-widget-677ff" style="border-width:1px;border-color:rgba(0, 0, 0, 0.15);border-style:solid;border-radius:8px;padding:10px;background:rgb(255, 255, 255);width:100%;background-color:#666666"><iframe id="Iframe" src="https://www.scoreaxis.com/widget/team-info/106?autoHeight=1&amp;bodyBackground=%23666666&amp;textColor=%23ffffff&amp;inst=677ff" style="width:100%;border:none;transition:all 300ms ease"></iframe><script>window.addEventListener("DOMContentLoaded",event=>{window.addEventListener("message",event=>{if(event.data.appHeight&&"677ff"==event.data.inst){let container=document.querySelector("#scoreaxis-widget-677ff iframe");container&&(container.style.height=parseInt(event.data.appHeight)+"px")}},!1)});</script></div>
+								<hr>
+								<!-- Real Valladolid -->
+								<div id="scoreaxis-widget-cdfe4" style="border-width:1px;border-color:rgba(0, 0, 0, 0.15);border-style:solid;border-radius:8px;padding:10px;background:rgb(255, 255, 255);width:100%;background-color:#666666"><iframe id="Iframe" src="https://www.scoreaxis.com/widget/team-info/361?autoHeight=1&amp;bodyBackground=%23666666&amp;textColor=%23ffffff&amp;inst=cdfe4" style="width:100%;border:none;transition:all 300ms ease"></iframe><script>window.addEventListener("DOMContentLoaded",event=>{window.addEventListener("message",event=>{if(event.data.appHeight&&"cdfe4"==event.data.inst){let container=document.querySelector("#scoreaxis-widget-cdfe4 iframe");container&&(container.style.height=parseInt(event.data.appHeight)+"px")}},!1)});</script></div>
+								<hr>
+
+							</article>
+
+							<article id="seriea-fix">
+								<!-- Roma -->
+								<div id="scoreaxis-widget-0243c" style="border-width:1px;border-color:rgba(0, 0, 0, 0.15);border-style:solid;border-radius:8px;padding:10px;background:rgb(255, 255, 255);width:100%;background-color:#666666"><iframe id="Iframe" src="https://www.scoreaxis.com/widget/team-info/37?autoHeight=1&amp;bodyBackground=%23666666&amp;textColor=%23ffffff&amp;inst=0243c" style="width:100%;border:none;transition:all 300ms ease"></iframe><script>window.addEventListener("DOMContentLoaded",event=>{window.addEventListener("message",event=>{if(event.data.appHeight&&"0243c"==event.data.inst){let container=document.querySelector("#scoreaxis-widget-0243c iframe");container&&(container.style.height=parseInt(event.data.appHeight)+"px")}},!1)});</script></div>
+								<hr>
+								<!-- Inter -->
+								<div id="scoreaxis-widget-2899e" style="border-width:1px;border-color:rgba(0, 0, 0, 0.15);border-style:solid;border-radius:8px;padding:10px;background:rgb(255, 255, 255);width:100%;background-color:#666666"><iframe id="Iframe" src="https://www.scoreaxis.com/widget/team-info/2930?autoHeight=1&amp;bodyBackground=%23666666&amp;textColor=%23ffffff&amp;inst=2899e" style="width:100%;border:none;transition:all 300ms ease"></iframe><script>window.addEventListener("DOMContentLoaded",event=>{window.addEventListener("message",event=>{if(event.data.appHeight&&"2899e"==event.data.inst){let container=document.querySelector("#scoreaxis-widget-2899e iframe");container&&(container.style.height=parseInt(event.data.appHeight)+"px")}},!1)});</script></div>
+								<hr>
+								<!-- Milan -->
+								<div id="scoreaxis-widget-161bd" style="border-width:1px;border-color:rgba(0, 0, 0, 0.15);border-style:solid;border-radius:8px;padding:10px;background:rgb(255, 255, 255);width:100%;background-color:#666666"><iframe id="Iframe" src="https://www.scoreaxis.com/widget/team-info/113?autoHeight=1&amp;bodyBackground=%23666666&amp;textColor=%23ffffff&amp;inst=161bd" style="width:100%;border:none;transition:all 300ms ease"></iframe><script>window.addEventListener("DOMContentLoaded",event=>{window.addEventListener("message",event=>{if(event.data.appHeight&&"161bd"==event.data.inst){let container=document.querySelector("#scoreaxis-widget-161bd iframe");container&&(container.style.height=parseInt(event.data.appHeight)+"px")}},!1)});</script></div>
+								<hr>
+								<!-- Napoli -->
+								<div id="scoreaxis-widget-c351a" style="border-width:1px;border-color:rgba(0, 0, 0, 0.15);border-style:solid;border-radius:8px;padding:10px;background:rgb(255, 255, 255);width:100%;background-color:#666666"><iframe id="Iframe" src="https://www.scoreaxis.com/widget/team-info/597?autoHeight=1&amp;bodyBackground=%23666666&amp;textColor=%23ffffff&amp;inst=c351a" style="width:100%;border:none;transition:all 300ms ease"></iframe><script>window.addEventListener("DOMContentLoaded",event=>{window.addEventListener("message",event=>{if(event.data.appHeight&&"c351a"==event.data.inst){let container=document.querySelector("#scoreaxis-widget-c351a iframe");container&&(container.style.height=parseInt(event.data.appHeight)+"px")}},!1)});</script></div>
+								<hr>
+								<!-- Lazio -->
+								<div id="scoreaxis-widget-5dd07" style="border-width:1px;border-color:rgba(0, 0, 0, 0.15);border-style:solid;border-radius:8px;padding:10px;background:rgb(255, 255, 255);width:100%;background-color:#666666"><iframe id="Iframe" src="https://www.scoreaxis.com/widget/team-info/43?autoHeight=1&amp;bodyBackground=%23666666&amp;textColor=%23ffffff&amp;inst=5dd07" style="width:100%;border:none;transition:all 300ms ease"></iframe><script>window.addEventListener("DOMContentLoaded",event=>{window.addEventListener("message",event=>{if(event.data.appHeight&&"5dd07"==event.data.inst){let container=document.querySelector("#scoreaxis-widget-5dd07 iframe");container&&(container.style.height=parseInt(event.data.appHeight)+"px")}},!1)});</script></div>
+								<hr>
+								<!-- Atalanta -->
+								<div id="scoreaxis-widget-26373" style="border-width:1px;border-color:rgba(0, 0, 0, 0.15);border-style:solid;border-radius:8px;padding:10px;background:rgb(255, 255, 255);width:100%;background-color:#666666"><iframe id="Iframe" src="https://www.scoreaxis.com/widget/team-info/708?autoHeight=1&amp;bodyBackground=%23666666&amp;textColor=%23ffffff&amp;inst=26373" style="width:100%;border:none;transition:all 300ms ease"></iframe><script>window.addEventListener("DOMContentLoaded",event=>{window.addEventListener("message",event=>{if(event.data.appHeight&&"26373"==event.data.inst){let container=document.querySelector("#scoreaxis-widget-26373 iframe");container&&(container.style.height=parseInt(event.data.appHeight)+"px")}},!1)});</script></div>
+								<hr>
+								<!-- Torino -->
+								<div id="scoreaxis-widget-2ec69" style="border-width:1px;border-color:rgba(0, 0, 0, 0.15);border-style:solid;border-radius:8px;padding:10px;background:rgb(255, 255, 255);width:100%;background-color:#666666"><iframe id="Iframe" src="https://www.scoreaxis.com/widget/team-info/613?autoHeight=1&amp;bodyBackground=%23666666&amp;textColor=%23ffffff&amp;inst=2ec69" style="width:100%;border:none;transition:all 300ms ease"></iframe><script>window.addEventListener("DOMContentLoaded",event=>{window.addEventListener("message",event=>{if(event.data.appHeight&&"2ec69"==event.data.inst){let container=document.querySelector("#scoreaxis-widget-2ec69 iframe");container&&(container.style.height=parseInt(event.data.appHeight)+"px")}},!1)});</script></div>
+								<hr>
+								<!-- Juventus -->
+								<div id="scoreaxis-widget-0f291" style="border-width:1px;border-color:rgba(0, 0, 0, 0.15);border-style:solid;border-radius:8px;padding:10px;background:rgb(255, 255, 255);width:100%;background-color:#666666"><iframe id="Iframe" src="https://www.scoreaxis.com/widget/team-info/625?autoHeight=1&amp;bodyBackground=%23666666&amp;textColor=%23ffffff&amp;inst=0f291" style="width:100%;border:none;transition:all 300ms ease"></iframe><script>window.addEventListener("DOMContentLoaded",event=>{window.addEventListener("message",event=>{if(event.data.appHeight&&"0f291"==event.data.inst){let container=document.querySelector("#scoreaxis-widget-0f291 iframe");container&&(container.style.height=parseInt(event.data.appHeight)+"px")}},!1)});</script></div>
+								<hr>
+								<!-- Fiorentina -->
+								<div id="scoreaxis-widget-aa966" style="border-width:1px;border-color:rgba(0, 0, 0, 0.15);border-style:solid;border-radius:8px;padding:10px;background:rgb(255, 255, 255);width:100%;background-color:#666666"><iframe id="Iframe" src="https://www.scoreaxis.com/widget/team-info/109?autoHeight=1&amp;bodyBackground=%23666666&amp;textColor=%23ffffff&amp;inst=aa966" style="width:100%;border:none;transition:all 300ms ease"></iframe><script>window.addEventListener("DOMContentLoaded",event=>{window.addEventListener("message",event=>{if(event.data.appHeight&&"aa966"==event.data.inst){let container=document.querySelector("#scoreaxis-widget-aa966 iframe");container&&(container.style.height=parseInt(event.data.appHeight)+"px")}},!1)});</script></div>
+								<hr>
+								<!-- Sassuolo -->
+								<div id="scoreaxis-widget-cd64a" style="border-width:1px;border-color:rgba(0, 0, 0, 0.15);border-style:solid;border-radius:8px;padding:10px;background:rgb(255, 255, 255);width:100%;background-color:#666666"><iframe id="Iframe" src="https://www.scoreaxis.com/widget/team-info/2714?autoHeight=1&amp;bodyBackground=%23666666&amp;textColor=%23ffffff&amp;inst=cd64a" style="width:100%;border:none;transition:all 300ms ease"></iframe><script>window.addEventListener("DOMContentLoaded",event=>{window.addEventListener("message",event=>{if(event.data.appHeight&&"cd64a"==event.data.inst){let container=document.querySelector("#scoreaxis-widget-cd64a iframe");container&&(container.style.height=parseInt(event.data.appHeight)+"px")}},!1)});</script></div>
+								<hr>
+								<!-- Salernitana -->
+								<div id="scoreaxis-widget-b76d2" style="border-width:1px;border-color:rgba(0, 0, 0, 0.15);border-style:solid;border-radius:8px;padding:10px;background:rgb(255, 255, 255);width:100%;background-color:#666666"><iframe id="Iframe" src="https://www.scoreaxis.com/widget/team-info/7743?autoHeight=1&amp;bodyBackground=%23666666&amp;textColor=%23ffffff&amp;inst=b76d2" style="width:100%;border:none;transition:all 300ms ease"></iframe><script>window.addEventListener("DOMContentLoaded",event=>{window.addEventListener("message",event=>{if(event.data.appHeight&&"b76d2"==event.data.inst){let container=document.querySelector("#scoreaxis-widget-b76d2 iframe");container&&(container.style.height=parseInt(event.data.appHeight)+"px")}},!1)});</script></div>
+								<hr>
+								<!-- Udinese -->
+								<div id="scoreaxis-widget-b7e67" style="border-width:1px;border-color:rgba(0, 0, 0, 0.15);border-style:solid;border-radius:8px;padding:10px;background:rgb(255, 255, 255);width:100%;background-color:#666666"><iframe id="Iframe" src="https://www.scoreaxis.com/widget/team-info/346?autoHeight=1&amp;bodyBackground=%23666666&amp;textColor=%23ffffff&amp;inst=b7e67" style="width:100%;border:none;transition:all 300ms ease"></iframe><script>window.addEventListener("DOMContentLoaded",event=>{window.addEventListener("message",event=>{if(event.data.appHeight&&"b7e67"==event.data.inst){let container=document.querySelector("#scoreaxis-widget-b7e67 iframe");container&&(container.style.height=parseInt(event.data.appHeight)+"px")}},!1)});</script></div>
+								<hr>
+								<!-- Spezia -->
+								<div id="scoreaxis-widget-96cf7" style="border-width:1px;border-color:rgba(0, 0, 0, 0.15);border-style:solid;border-radius:8px;padding:10px;background:rgb(255, 255, 255);width:100%;background-color:#666666"><iframe id="Iframe" src="https://www.scoreaxis.com/widget/team-info/345?autoHeight=1&amp;bodyBackground=%23666666&amp;textColor=%23ffffff&amp;inst=96cf7" style="width:100%;border:none;transition:all 300ms ease"></iframe><script>window.addEventListener("DOMContentLoaded",event=>{window.addEventListener("message",event=>{if(event.data.appHeight&&"96cf7"==event.data.inst){let container=document.querySelector("#scoreaxis-widget-96cf7 iframe");container&&(container.style.height=parseInt(event.data.appHeight)+"px")}},!1)});</script></div>
+								<hr>
+								<!-- girona -->
+								<div id="scoreaxis-widget-98eab" style="border-width:1px;border-color:rgba(0, 0, 0, 0.15);border-style:solid;border-radius:8px;padding:10px;background:rgb(255, 255, 255);width:100%;background-color:#666666"><iframe id="Iframe" src="https://www.scoreaxis.com/widget/team-info/231?autoHeight=1&amp;bodyBackground=%23666666&amp;textColor=%23ffffff&amp;inst=98eab" style="width:100%;border:none;transition:all 300ms ease"></iframe><script>window.addEventListener("DOMContentLoaded",event=>{window.addEventListener("message",event=>{if(event.data.appHeight&&"98eab"==event.data.inst){let container=document.querySelector("#scoreaxis-widget-98eab iframe");container&&(container.style.height=parseInt(event.data.appHeight)+"px")}},!1)});</script></div>
+								<hr>
+								<!-- Valencia -->
+								<div id="scoreaxis-widget-afd8b" style="border-width:1px;border-color:rgba(0, 0, 0, 0.15);border-style:solid;border-radius:8px;padding:10px;background:rgb(255, 255, 255);width:100%;background-color:#666666"><iframe id="Iframe" src="https://www.scoreaxis.com/widget/team-info/214?autoHeight=1&amp;bodyBackground=%23666666&amp;textColor=%23ffffff&amp;inst=afd8b" style="width:100%;border:none;transition:all 300ms ease"></iframe><script>window.addEventListener("DOMContentLoaded",event=>{window.addEventListener("message",event=>{if(event.data.appHeight&&"afd8b"==event.data.inst){let container=document.querySelector("#scoreaxis-widget-afd8b iframe");container&&(container.style.height=parseInt(event.data.appHeight)+"px")}},!1)});</script></div>
+								<hr>
+								<!-- sevilla -->
+								<div id="scoreaxis-widget-0b972" style="border-width:1px;border-color:rgba(0, 0, 0, 0.15);border-style:solid;border-radius:8px;padding:10px;background:rgb(255, 255, 255);width:100%;background-color:#666666"><iframe id="Iframe" src="https://www.scoreaxis.com/widget/team-info/676?autoHeight=1&amp;bodyBackground=%23666666&amp;textColor=%23ffffff&amp;inst=0b972" style="width:100%;border:none;transition:all 300ms ease"></iframe><script>window.addEventListener("DOMContentLoaded",event=>{window.addEventListener("message",event=>{if(event.data.appHeight&&"0b972"==event.data.inst){let container=document.querySelector("#scoreaxis-widget-0b972 iframe");container&&(container.style.height=parseInt(event.data.appHeight)+"px")}},!1)});</script></div>
+								<hr>
+								<!-- Espanyol -->
+								<div id="scoreaxis-widget-34127" style="border-width:1px;border-color:rgba(0, 0, 0, 0.15);border-style:solid;border-radius:8px;padding:10px;background:rgb(255, 255, 255);width:100%;background-color:#666666"><iframe id="Iframe" src="https://www.scoreaxis.com/widget/team-info/528?autoHeight=1&amp;bodyBackground=%23666666&amp;textColor=%23ffffff&amp;inst=34127" style="width:100%;border:none;transition:all 300ms ease"></iframe><script>window.addEventListener("DOMContentLoaded",event=>{window.addEventListener("message",event=>{if(event.data.appHeight&&"34127"==event.data.inst){let container=document.querySelector("#scoreaxis-widget-34127 iframe");container&&(container.style.height=parseInt(event.data.appHeight)+"px")}},!1)});</script></div>
+								<hr>
+								<!-- Elche -->
+								<div id="scoreaxis-widget-25a16" style="border-width:1px;border-color:rgba(0, 0, 0, 0.15);border-style:solid;border-radius:8px;padding:10px;background:rgb(255, 255, 255);width:100%;background-color:#666666"><iframe id="Iframe" src="https://www.scoreaxis.com/widget/team-info/1099?autoHeight=1&amp;bodyBackground=%23666666&amp;textColor=%23ffffff&amp;inst=25a16" style="width:100%;border:none;transition:all 300ms ease"></iframe><script>window.addEventListener("DOMContentLoaded",event=>{window.addEventListener("message",event=>{if(event.data.appHeight&&"25a16"==event.data.inst){let container=document.querySelector("#scoreaxis-widget-25a16 iframe");container&&(container.style.height=parseInt(event.data.appHeight)+"px")}},!1)});</script></div>
+								<hr>
+								<!-- Getafe -->
+								<div id="scoreaxis-widget-677ff" style="border-width:1px;border-color:rgba(0, 0, 0, 0.15);border-style:solid;border-radius:8px;padding:10px;background:rgb(255, 255, 255);width:100%;background-color:#666666"><iframe id="Iframe" src="https://www.scoreaxis.com/widget/team-info/106?autoHeight=1&amp;bodyBackground=%23666666&amp;textColor=%23ffffff&amp;inst=677ff" style="width:100%;border:none;transition:all 300ms ease"></iframe><script>window.addEventListener("DOMContentLoaded",event=>{window.addEventListener("message",event=>{if(event.data.appHeight&&"677ff"==event.data.inst){let container=document.querySelector("#scoreaxis-widget-677ff iframe");container&&(container.style.height=parseInt(event.data.appHeight)+"px")}},!1)});</script></div>
+								<hr>
+								<!-- Real Valladolid -->
+								<div id="scoreaxis-widget-cdfe4" style="border-width:1px;border-color:rgba(0, 0, 0, 0.15);border-style:solid;border-radius:8px;padding:10px;background:rgb(255, 255, 255);width:100%;background-color:#666666"><iframe id="Iframe" src="https://www.scoreaxis.com/widget/team-info/361?autoHeight=1&amp;bodyBackground=%23666666&amp;textColor=%23ffffff&amp;inst=cdfe4" style="width:100%;border:none;transition:all 300ms ease"></iframe><script>window.addEventListener("DOMContentLoaded",event=>{window.addEventListener("message",event=>{if(event.data.appHeight&&"cdfe4"==event.data.inst){let container=document.querySelector("#scoreaxis-widget-cdfe4 iframe");container&&(container.style.height=parseInt(event.data.appHeight)+"px")}},!1)});</script></div>
+								<hr>
+
+							</article>
+
+						<!-- PLAYER STATS -->
+							<article id="players">
+								<h1>PLAYER STATS</h1>
+								<hr>
+
+								<!-- prem -->
+								<div id="scoreaxis-widget-c8ff6" style="border-width:1px;border-color:rgba(0, 0, 0, 0.15);border-style:solid;border-radius:8px;padding:10px;background:rgb(255, 255, 255);width:100%;background-color:#666666"><iframe id="Iframe" src="https://www.scoreaxis.com/widget/league-top-players/8?autoHeight=0&amp;playersNumber=10&amp;font=10&amp;links=1&amp;bodyBackground=%23666666&amp;inst=c8ff6" style="width:100%;height:420px;border:none;transition:all 300ms ease"></iframe><script>window.addEventListener("DOMContentLoaded",event=>{window.addEventListener("message",event=>{if(event.data.appHeight&&"c8ff6"==event.data.inst){let container=document.querySelector("#scoreaxis-widget-c8ff6 iframe");container&&(container.style.height=parseInt(event.data.appHeight)+"px")}},!1)});</script></div>
+								<hr>
+
+								<!-- championship -->
+								<div id="scoreaxis-widget-7de22" style="border-width:1px;border-color:rgba(0, 0, 0, 0.15);border-style:solid;border-radius:8px;padding:10px;background:rgb(255, 255, 255);width:100%;background-color:#666666"><iframe id="Iframe" src="https://www.scoreaxis.com/widget/league-top-players/9?autoHeight=0&amp;playersNumber=10&amp;font=10&amp;links=1&amp;bodyBackground=%23666666&amp;inst=7de22" style="width:100%;height:420px;border:none;transition:all 300ms ease"></iframe><script>window.addEventListener("DOMContentLoaded",event=>{window.addEventListener("message",event=>{if(event.data.appHeight&&"7de22"==event.data.inst){let container=document.querySelector("#scoreaxis-widget-7de22 iframe");container&&(container.style.height=parseInt(event.data.appHeight)+"px")}},!1)});</script></div>
+								<hr>
+
+								<!-- carabao -->
+								<div id="scoreaxis-widget-14f5f" style="border-width:1px;border-color:rgba(0, 0, 0, 0.15);border-style:solid;border-radius:8px;padding:10px;background:rgb(255, 255, 255);width:100%;background-color:#666666"><iframe id="Iframe" src="https://www.scoreaxis.com/widget/league-top-players/27?autoHeight=0&amp;playersNumber=10&amp;font=10&amp;links=1&amp;bodyBackground=%23666666&amp;inst=14f5f" style="width:100%;height:420px;border:none;transition:all 300ms ease"></iframe><script>window.addEventListener("DOMContentLoaded",event=>{window.addEventListener("message",event=>{if(event.data.appHeight&&"14f5f"==event.data.inst){let container=document.querySelector("#scoreaxis-widget-14f5f iframe");container&&(container.style.height=parseInt(event.data.appHeight)+"px")}},!1)});</script></div>
+								<hr>
+
+								<!-- fa -->
+								<div id="scoreaxis-widget-fba2e" style="border-width:1px;border-color:rgba(0, 0, 0, 0.15);border-style:solid;border-radius:8px;padding:10px;background:rgb(255, 255, 255);width:100%;background-color:#666666"><iframe id="Iframe" src="https://www.scoreaxis.com/widget/league-top-players/24?autoHeight=0&amp;playersNumber=10&amp;font=10&amp;links=1&amp;bodyBackground=%23666666&amp;inst=fba2e" style="width:100%;height:420px;border:none;transition:all 300ms ease"></iframe><script>window.addEventListener("DOMContentLoaded",event=>{window.addEventListener("message",event=>{if(event.data.appHeight&&"fba2e"==event.data.inst){let container=document.querySelector("#scoreaxis-widget-fba2e iframe");container&&(container.style.height=parseInt(event.data.appHeight)+"px")}},!1)});</script></div>
+								<hr>
+
+								<!-- la liga -->
+								<div id="scoreaxis-widget-9fbea" style="border-width:1px;border-color:rgba(0, 0, 0, 0.15);border-style:solid;border-radius:8px;padding:10px;background:rgb(255, 255, 255);width:100%;background-color:#666666"><iframe id="Iframe" src="https://www.scoreaxis.com/widget/league-top-players/564?autoHeight=0&amp;playersNumber=10&amp;font=10&amp;links=1&amp;bodyBackground=%23666666&amp;inst=9fbea" style="width:100%;height:420px;border:none;transition:all 300ms ease"></iframe><script>window.addEventListener("DOMContentLoaded",event=>{window.addEventListener("message",event=>{if(event.data.appHeight&&"9fbea"==event.data.inst){let container=document.querySelector("#scoreaxis-widget-9fbea iframe");container&&(container.style.height=parseInt(event.data.appHeight)+"px")}},!1)});</script></div>
+								<hr>
+
+								<!-- la liga 2 -->
+								<div id="scoreaxis-widget-92860" style="border-width:1px;border-color:rgba(0, 0, 0, 0.15);border-style:solid;border-radius:8px;padding:10px;background:rgb(255, 255, 255);width:100%;background-color:#666666"><iframe id="Iframe" src="https://www.scoreaxis.com/widget/league-top-players/567?autoHeight=0&amp;playersNumber=10&amp;font=10&amp;links=1&amp;bodyBackground=%23666666&amp;inst=92860" style="width:100%;height:420px;border:none;transition:all 300ms ease"></iframe><script>window.addEventListener("DOMContentLoaded",event=>{window.addEventListener("message",event=>{if(event.data.appHeight&&"92860"==event.data.inst){let container=document.querySelector("#scoreaxis-widget-92860 iframe");container&&(container.style.height=parseInt(event.data.appHeight)+"px")}},!1)});</script></div>
+								<hr>
+
+								<!-- copa del rey -->
+								<div id="scoreaxis-widget-eef42" style="border-width:1px;border-color:rgba(0, 0, 0, 0.15);border-style:solid;border-radius:8px;padding:10px;background:rgb(255, 255, 255);width:100%;background-color:#666666"><iframe id="Iframe" src="https://www.scoreaxis.com/widget/league-top-players/570?autoHeight=0&amp;playersNumber=10&amp;font=10&amp;links=1&amp;bodyBackground=%23666666&amp;inst=eef42" style="width:100%;height:420px;border:none;transition:all 300ms ease"></iframe><script>window.addEventListener("DOMContentLoaded",event=>{window.addEventListener("message",event=>{if(event.data.appHeight&&"eef42"==event.data.inst){let container=document.querySelector("#scoreaxis-widget-eef42 iframe");container&&(container.style.height=parseInt(event.data.appHeight)+"px")}},!1)});</script></div>
+								<hr>
+
+								<!-- bundesliga -->
+								<div id="scoreaxis-widget-3420f" style="border-width:1px;border-color:rgba(0, 0, 0, 0.15);border-style:solid;border-radius:8px;padding:10px;background:rgb(255, 255, 255);width:100%;background-color:#666666"><iframe id="Iframe" src="https://www.scoreaxis.com/widget/league-top-players/82?autoHeight=0&amp;playersNumber=10&amp;font=10&amp;links=1&amp;bodyBackground=%23666666&amp;inst=3420f" style="width:100%;height:420px;border:none;transition:all 300ms ease"></iframe><script>window.addEventListener("DOMContentLoaded",event=>{window.addEventListener("message",event=>{if(event.data.appHeight&&"3420f"==event.data.inst){let container=document.querySelector("#scoreaxis-widget-3420f iframe");container&&(container.style.height=parseInt(event.data.appHeight)+"px")}},!1)});</script></div>
+								<hr>
+
+								<!-- 2. bundesliga -->
+								<div id="scoreaxis-widget-4a461" style="border-width:1px;border-color:rgba(0, 0, 0, 0.15);border-style:solid;border-radius:8px;padding:10px;background:rgb(255, 255, 255);width:100%;background-color:#666666"><iframe id="Iframe" src="https://www.scoreaxis.com/widget/league-top-players/85?autoHeight=0&amp;playersNumber=10&amp;font=10&amp;links=1&amp;bodyBackground=%23666666&amp;inst=4a461" style="width:100%;height:420px;border:none;transition:all 300ms ease"></iframe><script>window.addEventListener("DOMContentLoaded",event=>{window.addEventListener("message",event=>{if(event.data.appHeight&&"4a461"==event.data.inst){let container=document.querySelector("#scoreaxis-widget-4a461 iframe");container&&(container.style.height=parseInt(event.data.appHeight)+"px")}},!1)});</script></div>
+								<hr>
+
+								<!-- DFB pokal -->
+								<div id="scoreaxis-widget-7c20c" style="border-width:1px;border-color:rgba(0, 0, 0, 0.15);border-style:solid;border-radius:8px;padding:10px;background:rgb(255, 255, 255);width:100%;background-color:#666666"><iframe id="Iframe" src="https://www.scoreaxis.com/widget/league-top-players/109?autoHeight=0&amp;playersNumber=10&amp;font=10&amp;links=1&amp;bodyBackground=%23666666&amp;inst=7c20c" style="width:100%;height:420px;border:none;transition:all 300ms ease"></iframe><script>window.addEventListener("DOMContentLoaded",event=>{window.addEventListener("message",event=>{if(event.data.appHeight&&"7c20c"==event.data.inst){let container=document.querySelector("#scoreaxis-widget-7c20c iframe");container&&(container.style.height=parseInt(event.data.appHeight)+"px")}},!1)});</script></div>
+								<hr>
+
+								<!-- serie a -->
+								<div id="scoreaxis-widget-9b0eb" style="border-width:1px;border-color:rgba(0, 0, 0, 0.15);border-style:solid;border-radius:8px;padding:10px;background:rgb(255, 255, 255);width:100%;background-color:#666666"><iframe id="Iframe" src="https://www.scoreaxis.com/widget/league-top-players/384?autoHeight=0&amp;playersNumber=10&amp;font=10&amp;links=1&amp;bodyBackground=%23666666&amp;inst=9b0eb" style="width:100%;height:420px;border:none;transition:all 300ms ease"></iframe><script>window.addEventListener("DOMContentLoaded",event=>{window.addEventListener("message",event=>{if(event.data.appHeight&&"9b0eb"==event.data.inst){let container=document.querySelector("#scoreaxis-widget-9b0eb iframe");container&&(container.style.height=parseInt(event.data.appHeight)+"px")}},!1)});</script></div>
+								<hr>
+								
+								<!-- serie b -->
+								<div id="scoreaxis-widget-36b99" style="border-width:1px;border-color:rgba(0, 0, 0, 0.15);border-style:solid;border-radius:8px;padding:10px;background:rgb(255, 255, 255);width:100%;background-color:#666666"><iframe id="Iframe" src="https://www.scoreaxis.com/widget/league-top-players/387?autoHeight=0&amp;playersNumber=10&amp;font=10&amp;links=1&amp;bodyBackground=%23666666&amp;inst=36b99" style="width:100%;height:420px;border:none;transition:all 300ms ease"></iframe><script>window.addEventListener("DOMContentLoaded",event=>{window.addEventListener("message",event=>{if(event.data.appHeight&&"36b99"==event.data.inst){let container=document.querySelector("#scoreaxis-widget-36b99 iframe");container&&(container.style.height=parseInt(event.data.appHeight)+"px")}},!1)});</script></div>
+								<hr>
+
+								<!-- coppa italia -->
+								<div id="scoreaxis-widget-9574f" style="border-width:1px;border-color:rgba(0, 0, 0, 0.15);border-style:solid;border-radius:8px;padding:10px;background:rgb(255, 255, 255);width:100%;background-color:#666666"><iframe id="Iframe" src="https://www.scoreaxis.com/widget/league-top-players/390?autoHeight=0&amp;playersNumber=10&amp;font=10&amp;links=1&amp;bodyBackground=%23666666&amp;inst=9574f" style="width:100%;height:420px;border:none;transition:all 300ms ease"></iframe><script>window.addEventListener("DOMContentLoaded",event=>{window.addEventListener("message",event=>{if(event.data.appHeight&&"9574f"==event.data.inst){let container=document.querySelector("#scoreaxis-widget-9574f iframe");container&&(container.style.height=parseInt(event.data.appHeight)+"px")}},!1)});</script></div>
+								<hr>
+
+								<!-- league 1 -->
+								<div id="scoreaxis-widget-94693" style="border-width:1px;border-color:rgba(0, 0, 0, 0.15);border-style:solid;border-radius:8px;padding:10px;background:rgb(255, 255, 255);width:100%;background-color:#666666"><iframe id="Iframe" src="https://www.scoreaxis.com/widget/league-top-players/301?autoHeight=0&amp;playersNumber=10&amp;font=10&amp;links=1&amp;bodyBackground=%23666666&amp;inst=94693" style="width:100%;height:420px;border:none;transition:all 300ms ease"></iframe><script>window.addEventListener("DOMContentLoaded",event=>{window.addEventListener("message",event=>{if(event.data.appHeight&&"94693"==event.data.inst){let container=document.querySelector("#scoreaxis-widget-94693 iframe");container&&(container.style.height=parseInt(event.data.appHeight)+"px")}},!1)});</script></div>
+								<hr>
+
+								<!-- league 2 -->
+								<div id="scoreaxis-widget-c9ada" style="border-width:1px;border-color:rgba(0, 0, 0, 0.15);border-style:solid;border-radius:8px;padding:10px;background:rgb(255, 255, 255);width:100%;background-color:#666666"><iframe id="Iframe" src="https://www.scoreaxis.com/widget/league-top-players/304?autoHeight=0&amp;playersNumber=10&amp;font=10&amp;links=1&amp;bodyBackground=%23666666&amp;inst=c9ada" style="width:100%;height:420px;border:none;transition:all 300ms ease"></iframe><script>window.addEventListener("DOMContentLoaded",event=>{window.addEventListener("message",event=>{if(event.data.appHeight&&"c9ada"==event.data.inst){let container=document.querySelector("#scoreaxis-widget-c9ada iframe");container&&(container.style.height=parseInt(event.data.appHeight)+"px")}},!1)});</script></div>
+								<hr>
+
+								<!-- coupe de france -->
+
+								<!-- eredevisie -->
+								<div id="scoreaxis-widget-57f55" style="border-width:1px;border-color:rgba(0, 0, 0, 0.15);border-style:solid;border-radius:8px;padding:10px;background:rgb(255, 255, 255);width:100%;background-color:#666666"><iframe id="Iframe" src="https://www.scoreaxis.com/widget/league-top-players/72?autoHeight=0&amp;playersNumber=10&amp;font=10&amp;links=1&amp;bodyBackground=%23666666&amp;inst=57f55" style="width:100%;height:420px;border:none;transition:all 300ms ease"></iframe><script>window.addEventListener("DOMContentLoaded",event=>{window.addEventListener("message",event=>{if(event.data.appHeight&&"57f55"==event.data.inst){let container=document.querySelector("#scoreaxis-widget-57f55 iframe");container&&(container.style.height=parseInt(event.data.appHeight)+"px")}},!1)});</script></div>
+								<hr>
+
+								<!-- primeira liga -->
+								<div id="scoreaxis-widget-50095" style="border-width:1px;border-color:rgba(0, 0, 0, 0.15);border-style:solid;border-radius:8px;padding:10px;background:rgb(255, 255, 255);width:100%;background-color:#666666"><iframe id="Iframe" src="https://www.scoreaxis.com/widget/league-top-players/462?autoHeight=0&amp;playersNumber=10&amp;font=10&amp;links=1&amp;bodyBackground=%23666666&amp;inst=50095" style="width:100%;height:420px;border:none;transition:all 300ms ease"></iframe><script>window.addEventListener("DOMContentLoaded",event=>{window.addEventListener("message",event=>{if(event.data.appHeight&&"50095"==event.data.inst){let container=document.querySelector("#scoreaxis-widget-50095 iframe");container&&(container.style.height=parseInt(event.data.appHeight)+"px")}},!1)});</script></div>
+								<hr>
+
+								<!-- MLS -->
+								<div id="scoreaxis-widget-1c005" style="border-width:1px;border-color:rgba(0, 0, 0, 0.15);border-style:solid;border-radius:8px;padding:10px;background:rgb(255, 255, 255);width:100%;background-color:#666666"><iframe id="Iframe" src="https://www.scoreaxis.com/widget/league-top-players/779?autoHeight=0&amp;playersNumber=10&amp;font=10&amp;links=1&amp;bodyBackground=%23666666&amp;inst=1c005" style="width:100%;height:420px;border:none;transition:all 300ms ease"></iframe><script>window.addEventListener("DOMContentLoaded",event=>{window.addEventListener("message",event=>{if(event.data.appHeight&&"1c005"==event.data.inst){let container=document.querySelector("#scoreaxis-widget-1c005 iframe");container&&(container.style.height=parseInt(event.data.appHeight)+"px")}},!1)});</script></div>
+								<hr>
+
+								<!-- champs league -->
+
+								<!-- europa -->
+
+								<!-- conference -->
+
+								<!-- afcon -->
+								
+
+								<!-- copa america -->
+
+								<!-- wcq africa -->
+
+								<!-- wcq europe-->
+
+								<!-- wcq south america-->
+
+							</article>
+						<!-- TABLES -->
+							<article id="tables">
+								<h2 class="major">LEAGUE TABLES</h2>
+
+								<p>PREMIER LEAGUE</p>
+								<div id="scoreaxis-widget-2632b" style="border-width:1px;border-color:rgba(0, 0, 0, 0.15);border-style:solid;border-radius:8px;padding:10px;background:rgb(255, 255, 255);width:100%;background-color:#666666" data-reactroot=""><iframe id="Iframe" src="https://www.scoreaxis.com/widget/standings-widget/8?borderColor=%23ffffff&amp;bodyBackground=%23666666&amp;autoHeight=0&amp;inst=2632b" style="width:100%;height:300px;border:none;transition:all 300ms ease"></iframe><script>window.addEventListener("DOMContentLoaded",event=>{window.addEventListener("message",event=>{if(event.data.appHeight&&"2632b"==event.data.inst){let container=document.querySelector("#scoreaxis-widget-2632b iframe");container&&(container.style.height=parseInt(event.data.appHeight)+"px")}},!1)});</script></div>
+								<hr>
+
+								<p>CHAMPIONSHIP</p>
+								<div id="scoreaxis-widget-00977" style="border-width:1px;border-color:rgba(0, 0, 0, 0.15);border-style:solid;border-radius:8px;padding:10px;background:rgb(255, 255, 255);width:100%;background-color:#666666" data-reactroot=""><iframe id="Iframe" src="https://www.scoreaxis.com/widget/standings-widget/9?bodyBackground=%23666666&amp;autoHeight=0&amp;inst=00977" style="width:100%;height:300px;border:none;transition:all 300ms ease"></iframe><script>window.addEventListener("DOMContentLoaded",event=>{window.addEventListener("message",event=>{if(event.data.appHeight&&"00977"==event.data.inst){let container=document.querySelector("#scoreaxis-widget-00977 iframe");container&&(container.style.height=parseInt(event.data.appHeight)+"px")}},!1)});</script></div>
+								<hr>
+
+								<p>CARABAO CUP</p>
+								<div id="scoreaxis-widget-57495" style="border-width:1px;border-color:rgba(0, 0, 0, 0.15);border-style:solid;border-radius:8px;padding:10px;background:rgb(255, 255, 255);width:100%;background-color:#666666" data-reactroot=""><iframe id="Iframe" src="https://www.scoreaxis.com/widget/standings-widget/27?bodyBackground=%23666666&amp;autoHeight=0&amp;inst=57495" style="width:100%;height:300px;border:none;transition:all 300ms ease"></iframe><script>window.addEventListener("DOMContentLoaded",event=>{window.addEventListener("message",event=>{if(event.data.appHeight&&"57495"==event.data.inst){let container=document.querySelector("#scoreaxis-widget-57495 iframe");container&&(container.style.height=parseInt(event.data.appHeight)+"px")}},!1)});</script></div>
+								<hr>
+
+								<p>FA CUP</p>
+								<div id="scoreaxis-widget-94adb" style="border-width:1px;border-color:rgba(0, 0, 0, 0.15);border-style:solid;border-radius:8px;padding:10px;background:rgb(255, 255, 255);width:100%;background-color:#666666" data-reactroot=""><iframe id="Iframe" src="https://www.scoreaxis.com/widget/standings-widget/24?bodyBackground=%23666666&amp;autoHeight=0&amp;inst=94adb" style="width:100%;height:300px;border:none;transition:all 300ms ease"></iframe><script>window.addEventListener("DOMContentLoaded",event=>{window.addEventListener("message",event=>{if(event.data.appHeight&&"94adb"==event.data.inst){let container=document.querySelector("#scoreaxis-widget-94adb iframe");container&&(container.style.height=parseInt(event.data.appHeight)+"px")}},!1)});</script></div>
+								<hr>
+
+								<p>LA LIGA</p>
+								<div id="scoreaxis-widget-67a2a" style="border-width:1px;border-color:rgba(0, 0, 0, 0.15);border-style:solid;border-radius:8px;padding:10px;background:rgb(255, 255, 255);width:100%;background-color:#666666" data-reactroot=""><iframe id="Iframe" src="https://www.scoreaxis.com/widget/standings-widget/564?bodyBackground=%23666666&amp;autoHeight=0&amp;inst=67a2a" style="width:100%;height:300px;border:none;transition:all 300ms ease"></iframe><script>window.addEventListener("DOMContentLoaded",event=>{window.addEventListener("message",event=>{if(event.data.appHeight&&"67a2a"==event.data.inst){let container=document.querySelector("#scoreaxis-widget-67a2a iframe");container&&(container.style.height=parseInt(event.data.appHeight)+"px")}},!1)});</script></div>
+								<hr>
+
+								<p>LA LIGA 2</p>
+								<div id="scoreaxis-widget-c4881" style="border-width:1px;border-color:rgba(0, 0, 0, 0.15);border-style:solid;border-radius:8px;padding:10px;background:rgb(255, 255, 255);width:100%;background-color:#666666" data-reactroot=""><iframe id="Iframe" src="https://www.scoreaxis.com/widget/standings-widget/567?bodyBackground=%23666666&amp;autoHeight=0&amp;inst=c4881" style="width:100%;height:300px;border:none;transition:all 300ms ease"></iframe><script>window.addEventListener("DOMContentLoaded",event=>{window.addEventListener("message",event=>{if(event.data.appHeight&&"c4881"==event.data.inst){let container=document.querySelector("#scoreaxis-widget-c4881 iframe");container&&(container.style.height=parseInt(event.data.appHeight)+"px")}},!1)});</script></div>
+								<hr>
+
+								<p>COPA DEL REY</p>
+								<div id="scoreaxis-widget-446a9" style="border-width:1px;border-color:rgba(0, 0, 0, 0.15);border-style:solid;border-radius:8px;padding:10px;background:rgb(255, 255, 255);width:100%;background-color:#666666" data-reactroot=""><iframe id="Iframe" src="https://www.scoreaxis.com/widget/standings-widget/570?bodyBackground=%23666666&amp;autoHeight=0&amp;inst=446a9" style="width:100%;height:300px;border:none;transition:all 300ms ease"></iframe><script>window.addEventListener("DOMContentLoaded",event=>{window.addEventListener("message",event=>{if(event.data.appHeight&&"446a9"==event.data.inst){let container=document.querySelector("#scoreaxis-widget-446a9 iframe");container&&(container.style.height=parseInt(event.data.appHeight)+"px")}},!1)});</script></div>
+								<hr>
+
+								<p>BUNDESLIGA</p>
+								<div id="scoreaxis-widget-fabb5" style="border-width:1px;border-color:rgba(0, 0, 0, 0.15);border-style:solid;border-radius:8px;padding:10px;background:rgb(255, 255, 255);width:100%;background-color:#666666" data-reactroot=""><iframe id="Iframe" src="https://www.scoreaxis.com/widget/standings-widget/82?bodyBackground=%23666666&amp;autoHeight=0&amp;inst=fabb5" style="width:100%;height:300px;border:none;transition:all 300ms ease"></iframe><script>window.addEventListener("DOMContentLoaded",event=>{window.addEventListener("message",event=>{if(event.data.appHeight&&"fabb5"==event.data.inst){let container=document.querySelector("#scoreaxis-widget-fabb5 iframe");container&&(container.style.height=parseInt(event.data.appHeight)+"px")}},!1)});</script></div>
+								<hr>
+
+								<p>2. BUNDESLIGA</p>
+								<div id="scoreaxis-widget-ef5c4" style="border-width:1px;border-color:rgba(0, 0, 0, 0.15);border-style:solid;border-radius:8px;padding:10px;background:rgb(255, 255, 255);width:100%;background-color:#666666" data-reactroot=""><iframe id="Iframe" src="https://www.scoreaxis.com/widget/standings-widget/85?bodyBackground=%23666666&amp;autoHeight=0&amp;inst=ef5c4" style="width:100%;height:300px;border:none;transition:all 300ms ease"></iframe><script>window.addEventListener("DOMContentLoaded",event=>{window.addEventListener("message",event=>{if(event.data.appHeight&&"ef5c4"==event.data.inst){let container=document.querySelector("#scoreaxis-widget-ef5c4 iframe");container&&(container.style.height=parseInt(event.data.appHeight)+"px")}},!1)});</script></div>
+								<hr>
+
+								<p>DFB POKAL</p>
+								<div id="scoreaxis-widget-c2eee" style="border-width:1px;border-color:rgba(0, 0, 0, 0.15);border-style:solid;border-radius:8px;padding:10px;background:rgb(255, 255, 255);width:100%;background-color:#666666" data-reactroot=""><iframe id="Iframe" src="https://www.scoreaxis.com/widget/standings-widget/109?bodyBackground=%23666666&amp;autoHeight=0&amp;inst=c2eee" style="width:100%;height:300px;border:none;transition:all 300ms ease"></iframe><script>window.addEventListener("DOMContentLoaded",event=>{window.addEventListener("message",event=>{if(event.data.appHeight&&"c2eee"==event.data.inst){let container=document.querySelector("#scoreaxis-widget-c2eee iframe");container&&(container.style.height=parseInt(event.data.appHeight)+"px")}},!1)});</script></div>
+								<hr>
+
+								<p>SERIE A</p>
+								<div id="scoreaxis-widget-666d6" style="border-width:1px;border-color:rgba(0, 0, 0, 0.15);border-style:solid;border-radius:8px;padding:10px;background:rgb(255, 255, 255);width:100%;background-color:#666666" data-reactroot=""><iframe id="Iframe" src="https://www.scoreaxis.com/widget/standings-widget/384?bodyBackground=%23666666&amp;autoHeight=0&amp;inst=666d6" style="width:100%;height:300px;border:none;transition:all 300ms ease"></iframe><script>window.addEventListener("DOMContentLoaded",event=>{window.addEventListener("message",event=>{if(event.data.appHeight&&"666d6"==event.data.inst){let container=document.querySelector("#scoreaxis-widget-666d6 iframe");container&&(container.style.height=parseInt(event.data.appHeight)+"px")}},!1)});</script></div>
+								<hr>
+
+								<p>SERIE B</p>
+								<div id="scoreaxis-widget-595a6" style="border-width:1px;border-color:rgba(0, 0, 0, 0.15);border-style:solid;border-radius:8px;padding:10px;background:rgb(255, 255, 255);width:100%;background-color:#666666" data-reactroot=""><iframe id="Iframe" src="https://www.scoreaxis.com/widget/standings-widget/387?bodyBackground=%23666666&amp;autoHeight=0&amp;inst=595a6" style="width:100%;height:300px;border:none;transition:all 300ms ease"></iframe><script>window.addEventListener("DOMContentLoaded",event=>{window.addEventListener("message",event=>{if(event.data.appHeight&&"595a6"==event.data.inst){let container=document.querySelector("#scoreaxis-widget-595a6 iframe");container&&(container.style.height=parseInt(event.data.appHeight)+"px")}},!1)});</script></div>
+								<hr>
+
+								<p>COPPA ITALIA</p>
+								<div id="scoreaxis-widget-24e21" style="border-width:1px;border-color:rgba(0, 0, 0, 0.15);border-style:solid;border-radius:8px;padding:10px;background:rgb(255, 255, 255);width:100%;background-color:#666666" data-reactroot=""><iframe id="Iframe" src="https://www.scoreaxis.com/widget/standings-widget/390?bodyBackground=%23666666&amp;autoHeight=0&amp;inst=24e21" style="width:100%;height:300px;border:none;transition:all 300ms ease"></iframe><script>window.addEventListener("DOMContentLoaded",event=>{window.addEventListener("message",event=>{if(event.data.appHeight&&"24e21"==event.data.inst){let container=document.querySelector("#scoreaxis-widget-24e21 iframe");container&&(container.style.height=parseInt(event.data.appHeight)+"px")}},!1)});</script></div>
+								<hr>
+
+								<p>LEAGUE 1</p>
+								<div id="scoreaxis-widget-d729d" style="border-width:1px;border-color:rgba(0, 0, 0, 0.15);border-style:solid;border-radius:8px;padding:10px;background:rgb(255, 255, 255);width:100%;background-color:#666666" data-reactroot=""><iframe id="Iframe" src="https://www.scoreaxis.com/widget/standings-widget/301?bodyBackground=%23666666&amp;autoHeight=0&amp;inst=d729d" style="width:100%;height:300px;border:none;transition:all 300ms ease"></iframe><script>window.addEventListener("DOMContentLoaded",event=>{window.addEventListener("message",event=>{if(event.data.appHeight&&"d729d"==event.data.inst){let container=document.querySelector("#scoreaxis-widget-d729d iframe");container&&(container.style.height=parseInt(event.data.appHeight)+"px")}},!1)});</script></div>
+								<hr>
+
+								<p>LEAGUE 2</p>
+								<div id="scoreaxis-widget-5f9ce" style="border-width:1px;border-color:rgba(0, 0, 0, 0.15);border-style:solid;border-radius:8px;padding:10px;background:rgb(255, 255, 255);width:100%;background-color:#666666" data-reactroot=""><iframe id="Iframe" src="https://www.scoreaxis.com/widget/standings-widget/304?bodyBackground=%23666666&amp;autoHeight=0&amp;inst=5f9ce" style="width:100%;height:300px;border:none;transition:all 300ms ease"></iframe><script>window.addEventListener("DOMContentLoaded",event=>{window.addEventListener("message",event=>{if(event.data.appHeight&&"5f9ce"==event.data.inst){let container=document.querySelector("#scoreaxis-widget-5f9ce iframe");container&&(container.style.height=parseInt(event.data.appHeight)+"px")}},!1)});</script></div>
+								<hr>
+
+								<p>COUPE DE FRANCE</p>
+								<div id="scoreaxis-widget-b42be" style="border-width:1px;border-color:rgba(0, 0, 0, 0.15);border-style:solid;border-radius:8px;padding:10px;background:rgb(255, 255, 255);width:100%;background-color:#666666" data-reactroot=""><iframe id="Iframe" src="https://www.scoreaxis.com/widget/standings-widget/307?bodyBackground=%23666666&amp;autoHeight=0&amp;inst=b42be" style="width:100%;height:300px;border:none;transition:all 300ms ease"></iframe><script>window.addEventListener("DOMContentLoaded",event=>{window.addEventListener("message",event=>{if(event.data.appHeight&&"b42be"==event.data.inst){let container=document.querySelector("#scoreaxis-widget-b42be iframe");container&&(container.style.height=parseInt(event.data.appHeight)+"px")}},!1)});</script></div>
+								<hr>
+
+								<p>EREDEVISIE</p>
+								<div id="scoreaxis-widget-a2b1f" style="border-width:1px;border-color:rgba(0, 0, 0, 0.15);border-style:solid;border-radius:8px;padding:10px;background:rgb(255, 255, 255);width:100%;background-color:#666666" data-reactroot=""><iframe id="Iframe" src="https://www.scoreaxis.com/widget/standings-widget/72?bodyBackground=%23666666&amp;autoHeight=0&amp;inst=a2b1f" style="width:100%;height:300px;border:none;transition:all 300ms ease"></iframe><script>window.addEventListener("DOMContentLoaded",event=>{window.addEventListener("message",event=>{if(event.data.appHeight&&"a2b1f"==event.data.inst){let container=document.querySelector("#scoreaxis-widget-a2b1f iframe");container&&(container.style.height=parseInt(event.data.appHeight)+"px")}},!1)});</script></div>
+								<hr>
+
+								<p>PRIMEIRA LIGA</p>
+								<div id="scoreaxis-widget-a5b66" style="border-width:1px;border-color:rgba(0, 0, 0, 0.15);border-style:solid;border-radius:8px;padding:10px;background:rgb(255, 255, 255);width:100%;background-color:#666666" data-reactroot=""><iframe id="Iframe" src="https://www.scoreaxis.com/widget/standings-widget/462?bodyBackground=%23666666&amp;autoHeight=0&amp;inst=a5b66" style="width:100%;height:300px;border:none;transition:all 300ms ease"></iframe><script>window.addEventListener("DOMContentLoaded",event=>{window.addEventListener("message",event=>{if(event.data.appHeight&&"a5b66"==event.data.inst){let container=document.querySelector("#scoreaxis-widget-a5b66 iframe");container&&(container.style.height=parseInt(event.data.appHeight)+"px")}},!1)});</script></div>
+								<hr>
+
+								<p>MLS</p>
+								<div id="scoreaxis-widget-44eda" style="border-width:1px;border-color:rgba(0, 0, 0, 0.15);border-style:solid;border-radius:8px;padding:10px;background:rgb(255, 255, 255);width:100%;background-color:#666666" data-reactroot=""><iframe id="Iframe" src="https://www.scoreaxis.com/widget/standings-widget/779?bodyBackground=%23666666&amp;autoHeight=0&amp;inst=44eda" style="width:100%;height:300px;border:none;transition:all 300ms ease"></iframe><script>window.addEventListener("DOMContentLoaded",event=>{window.addEventListener("message",event=>{if(event.data.appHeight&&"44eda"==event.data.inst){let container=document.querySelector("#scoreaxis-widget-44eda iframe");container&&(container.style.height=parseInt(event.data.appHeight)+"px")}},!1)});</script></div>
+								<hr>
+
+								<p>CHAMPIONS LEAGUE</p>
+								<div id="scoreaxis-widget-e68c8" style="border-width:1px;border-color:rgba(0, 0, 0, 0.15);border-style:solid;border-radius:8px;padding:10px;background:rgb(255, 255, 255);width:100%;background-color:#666666" data-reactroot=""><iframe id="Iframe" src="https://www.scoreaxis.com/widget/standings-widget/2?bodyBackground=%23666666&amp;autoHeight=0&amp;inst=e68c8" style="width:100%;height:300px;border:none;transition:all 300ms ease"></iframe><script>window.addEventListener("DOMContentLoaded",event=>{window.addEventListener("message",event=>{if(event.data.appHeight&&"e68c8"==event.data.inst){let container=document.querySelector("#scoreaxis-widget-e68c8 iframe");container&&(container.style.height=parseInt(event.data.appHeight)+"px")}},!1)});</script></div>
+								<hr>
+
+								<p>EUROPA LEAGUE</p>
+								<div id="scoreaxis-widget-bae6a" style="border-width:1px;border-color:rgba(0, 0, 0, 0.15);border-style:solid;border-radius:8px;padding:10px;background:rgb(255, 255, 255);width:100%;background-color:#666666" data-reactroot=""><iframe id="Iframe" src="https://www.scoreaxis.com/widget/standings-widget/5?bodyBackground=%23666666&amp;autoHeight=0&amp;inst=bae6a" style="width:100%;height:300px;border:none;transition:all 300ms ease"></iframe><script>window.addEventListener("DOMContentLoaded",event=>{window.addEventListener("message",event=>{if(event.data.appHeight&&"bae6a"==event.data.inst){let container=document.querySelector("#scoreaxis-widget-bae6a iframe");container&&(container.style.height=parseInt(event.data.appHeight)+"px")}},!1)});</script></div>
+								<hr>
+
+								<p>CONFERENCE LEAGUE</p>
+								<div id="scoreaxis-widget-289c2" style="border-width:1px;border-color:rgba(0, 0, 0, 0.15);border-style:solid;border-radius:8px;padding:10px;background:rgb(255, 255, 255);width:100%;background-color:#666666" data-reactroot=""><iframe id="Iframe" src="https://www.scoreaxis.com/widget/standings-widget/2286?bodyBackground=%23666666&amp;autoHeight=0&amp;inst=289c2" style="width:100%;height:300px;border:none;transition:all 300ms ease"></iframe><script>window.addEventListener("DOMContentLoaded",event=>{window.addEventListener("message",event=>{if(event.data.appHeight&&"289c2"==event.data.inst){let container=document.querySelector("#scoreaxis-widget-289c2 iframe");container&&(container.style.height=parseInt(event.data.appHeight)+"px")}},!1)});</script></div>
+								<hr>
+
+								<p>AFRICA CUP OF NATIONS</p>
+								<div id="scoreaxis-widget-dda52" style="border-width:1px;border-color:rgba(0, 0, 0, 0.15);border-style:solid;border-radius:8px;padding:10px;background:rgb(255, 255, 255);width:100%;background-color:#666666" data-reactroot=""><iframe id="Iframe" src="https://www.scoreaxis.com/widget/standings-widget/1117?bodyBackground=%23666666&amp;autoHeight=0&amp;removeBorders=0&amp;inst=dda52" style="width:100%;height:300px;border:none;transition:all 300ms ease"></iframe><script>window.addEventListener("DOMContentLoaded",event=>{window.addEventListener("message",event=>{if(event.data.appHeight&&"dda52"==event.data.inst){let container=document.querySelector("#scoreaxis-widget-dda52 iframe");container&&(container.style.height=parseInt(event.data.appHeight)+"px")}},!1)});</script></div>
+								<hr>
+
+								<p>COPA AMERICA</p>
+								<div id="scoreaxis-widget-8147f" style="border-width:1px;border-color:rgba(0, 0, 0, 0.15);border-style:solid;border-radius:8px;padding:10px;background:rgb(255, 255, 255);width:100%;background-color:#666666" data-reactroot=""><iframe id="Iframe" src="https://www.scoreaxis.com/widget/standings-widget/1114?bodyBackground=%23666666&amp;autoHeight=0&amp;inst=8147f" style="width:100%;height:300px;border:none;transition:all 300ms ease"></iframe><script>window.addEventListener("DOMContentLoaded",event=>{window.addEventListener("message",event=>{if(event.data.appHeight&&"8147f"==event.data.inst){let container=document.querySelector("#scoreaxis-widget-8147f iframe");container&&(container.style.height=parseInt(event.data.appHeight)+"px")}},!1)});</script></div>
+								<hr>
+
+								<p>WC QUALIFICATION AFRICA</p>
+								<div id="scoreaxis-widget-0d0d5" style="border-width:1px;border-color:rgba(0, 0, 0, 0.15);border-style:solid;border-radius:8px;padding:10px;background:rgb(255, 255, 255);width:100%;background-color:#666666" data-reactroot=""><iframe id="Iframe" src="https://www.scoreaxis.com/widget/standings-widget/711?bodyBackground=%23666666&amp;autoHeight=0&amp;removeBorders=0&amp;inst=0d0d5" style="width:100%;height:300px;border:none;transition:all 300ms ease"></iframe><script>window.addEventListener("DOMContentLoaded",event=>{window.addEventListener("message",event=>{if(event.data.appHeight&&"0d0d5"==event.data.inst){let container=document.querySelector("#scoreaxis-widget-0d0d5 iframe");container&&(container.style.height=parseInt(event.data.appHeight)+"px")}},!1)});</script></div>
+								<hr>
+
+								<p>WC QUALIFICATION EUROPE</p>
+								<div id="scoreaxis-widget-6cf8a" style="border-width:1px;border-color:rgba(0, 0, 0, 0.15);border-style:solid;border-radius:8px;padding:10px;background:rgb(255, 255, 255);width:100%;background-color:#666666" data-reactroot=""><iframe id="Iframe" src="https://www.scoreaxis.com/widget/standings-widget/720?bodyBackground=%23666666&amp;autoHeight=0&amp;inst=6cf8a" style="width:100%;height:300px;border:none;transition:all 300ms ease"></iframe><script>window.addEventListener("DOMContentLoaded",event=>{window.addEventListener("message",event=>{if(event.data.appHeight&&"6cf8a"==event.data.inst){let container=document.querySelector("#scoreaxis-widget-6cf8a iframe");container&&(container.style.height=parseInt(event.data.appHeight)+"px")}},!1)});</script></div>
+								<hr>
+
+								<p>WC QUALIFICATION SOUTH AMERICA</p>
+								<div id="scoreaxis-widget-70db4" style="border-width:1px;border-color:rgba(0, 0, 0, 0.15);border-style:solid;border-radius:8px;padding:10px;background:rgb(255, 255, 255);width:100%;background-color:#666666" data-reactroot=""><iframe id="Iframe" src="https://www.scoreaxis.com/widget/standings-widget/726?bodyBackground=%23666666&amp;autoHeight=0&amp;inst=70db4" style="width:100%;height:300px;border:none;transition:all 300ms ease"></iframe><script>window.addEventListener("DOMContentLoaded",event=>{window.addEventListener("message",event=>{if(event.data.appHeight&&"70db4"==event.data.inst){let container=document.querySelector("#scoreaxis-widget-70db4 iframe");container&&(container.style.height=parseInt(event.data.appHeight)+"px")}},!1)});</script></div>
+								<hr>
+							</article>
+
+						<!-- Contact -->
+							<article id="contact">
+								<h2 class="major">Contact</h2>
+								<form method="post" action="#">
+									<div class="fields">
+										<div class="field half">
+											<label for="name">Name</label>
+											<input type="text" name="name" id="name" />
+										</div>
+										<div class="field half">
+											<label for="email">Email</label>
+											<input type="text" name="email" id="email" />
+										</div>
+										<div class="field">
+											<label for="message">Message</label>
+											<textarea name="message" id="message" rows="4"></textarea>
+										</div>
+									</div>
+									<ul class="actions">
+										<li><input type="submit" value="Send Message" class="primary" /></li>
+										<li><input type="reset" value="Reset" /></li>
+									</ul>
+								</form>
+								<ul class="icons">
+									<li><a href="#" class="icon brands fa-twitter"><span class="label">Twitter</span></a></li>
+									<li><a href="#" class="icon brands fa-facebook-f"><span class="label">Facebook</span></a></li>
+									<li><a href="#" class="icon brands fa-instagram"><span class="label">Instagram</span></a></li>
+									<li><a href="#" class="icon brands fa-github"><span class="label">GitHub</span></a></li>
+								</ul>
+							</article>
+
+						<!-- Elements -->
+							
+
+					</div>
+
+				<!-- Footer -->
+					<footer id="footer">
+						
+					</footer>
+
+			</div>
+
+		<!-- BG -->
+			<div id="bg"></div>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>
 
